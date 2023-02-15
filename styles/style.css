@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 50px;
+  background: midnightblue
+}
+div {
+  width: 500px;
+  margin: auto;
+  padding: 50px;
+  background: lightgrey;
+  border: inset;
+  border-color: darkgrey;
+  border-width: 25px
+}
+img {
+  height: 450px;
+  width: 450px
+}
+p {
+  font-size: 50px;
+  margin: auto;
+  text-align: center;
+  font-family: serif;
+  color: dimgrey
+}
